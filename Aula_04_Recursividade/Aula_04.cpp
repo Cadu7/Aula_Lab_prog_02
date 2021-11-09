@@ -6,7 +6,7 @@ using namespace std;
 int fatorial(int n){
 
     if (n== 0 || n == 1){
-        return 1;
+        return 1; 
     }else{
         return n* fatorial(n-1);
     } 
@@ -47,6 +47,23 @@ int main(){
 
     return 0;
 }*/
+
+int mdc( int m, int n){
+
+    if(m<n){
+        return mdc(n,m);
+    }else if( m%n == 0 ){
+        return n;
+    }else{
+        return mdc(n, m%m);
+    }
+
+}
+
+int main(){
+    cout << mdc(14,5);
+}
+
 
 
 
