@@ -1,0 +1,3 @@
+C:/VSCode/Aula_Lab_prog_02/Aula_13/Pilha_Fila/cmake-build-debug/CMakeFiles/Pilha_Fila.dir
+C:/VSCode/Aula_Lab_prog_02/Aula_13/Pilha_Fila/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/VSCode/Aula_Lab_prog_02/Aula_13/Pilha_Fila/cmake-build-debug/CMakeFiles/rebuild_cache.dir

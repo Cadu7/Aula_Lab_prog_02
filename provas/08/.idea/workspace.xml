@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="08" targetName="08" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="034aae4b-6c92-4bc8-9475-9b810c9989d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Aula_Lab_prog_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_10_Listas/ListaEncadeada/.idea/ListaEncadeada.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_01/.idea/teste_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_01/ListaCont.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_01/ListaCont.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_01/Ponto.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_02/.idea/teste_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_02/ListaEncad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_02/ListaEncad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_11_teste/teste_02/No.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/.idea/ListaDupla.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/ListaDupla.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/ListaDupla.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_12/ListaDupla/NoDuplo.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/.idea/Pilha_Fila.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/FilasCont.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/FilasCont.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/PilhaCont.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_13/Pilha_Fila/PilhaCont.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_14_teste/teste_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_14_teste/teste_01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_14_teste/teste_01/.idea/teste_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_14_teste/teste_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_14_teste/teste_02/.idea/teste_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/.idea/Arvore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/ArvBin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/ArvBin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/ArvBinBusca.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/ArvBinBusca.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Aula_15/Arvore/NoArv.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/.idea/07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/ListaDupla.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/ListaDupla.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../07/No.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/08.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilaEncad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FilaEncad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/No.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilhaEncad.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PilhaEncad.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09/ArvBin.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09/ArvBin.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../09/NoArv.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="25OcirGaHjQKrAEQsq2Sb9Hkkaz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="08" TARGET_NAME="08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="08" RUN_TARGET_NAME="08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="034aae4b-6c92-4bc8-9475-9b810c9989d6" name="Changes" comment="" />
+      <created>1645401704053</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645401704053</updated>
+      <workItem from="1645401705633" duration="258000" />
+      <workItem from="1645402015985" duration="20000" />
+      <workItem from="1645402357501" duration="257000" />
+      <workItem from="1645463444931" duration="442000" />
+      <workItem from="1645465735249" duration="3790000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>71</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>69</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

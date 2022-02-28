@@ -1,0 +1,3 @@
+C:/VSCode/Aula_Lab_prog_02/provas/07/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/VSCode/Aula_Lab_prog_02/provas/07/cmake-build-debug/CMakeFiles/07.dir
+C:/VSCode/Aula_Lab_prog_02/provas/07/cmake-build-debug/CMakeFiles/rebuild_cache.dir
